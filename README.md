@@ -2,10 +2,12 @@
 
 I'm Santiago. Software Developer at [k2](https://https://k2con.com), Cofounder at [Unizend](https://github.com/Unizend) and Minecraft Player at Home.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsc6955&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔭 Currently working on
 - [Unizend](https://github.com/Unizend): Searching for an idea to pivot to.
 - [Paradox](https://https://github.com/ProjectPenrose/paradox): Simple vanilla javascript library for beginners.
-- [k2](https://https://k2con.com) B2B software in industries such as Real Estate, Fintech, Health, Project Management.
+- [k2](https://https://k2con.com) B2B software in industries such as Real Estate, Fintech, Health, and Project Management.
 
 ## 🌱 Currently learning
 - Business development at [Platzi](https://platzi.com)
