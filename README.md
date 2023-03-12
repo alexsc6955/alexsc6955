@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Santiago. Software Developer at [k2](https://https://k2con.com), Cofounder at [Unizend[(https://github.com/Unizend) and Minecraft Player at Home.
+I'm Santiago. Software Developer at [k2](https://https://k2con.com), Cofounder at [Unizend](https://github.com/Unizend) and Minecraft Player at Home.
 
 ## 🔭 Currently working on
 - [Unizend](https://github.com/Unizend): Searching for an idea to pivot to.
