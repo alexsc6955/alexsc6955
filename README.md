@@ -10,6 +10,7 @@ I'm Santiago. Software Developer at [k2](https://https://k2con.com), Cofounder a
 - [k2](https://https://k2con.com) B2B software in industries such as Real Estate, Fintech, Health, and Project Management.
 
 ## 🌱 Currently learning
+- How to build a startup at [Startup Scholl](https://startupschool.org)
 - Business development at [Platzi](https://platzi.com)
 - Software architecture at [Platzi](https://platzi.com)
 - Data science at [Platzi](https://platzi.com)
