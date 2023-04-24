@@ -14,7 +14,7 @@ I'm Santiago. Software Developer at [k2](https://https://k2con.com), Cofounder a
 - Business development at [Platzi](https://platzi.com)
 - Software architecture at [Platzi](https://platzi.com)
 - Data science at [Platzi](https://platzi.com)
-- Advanced javascript at work
+- Advanced javascript and Python at work
 
 ## 👯 Looking to collaborate on
 - Any open source javascript project
