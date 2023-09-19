@@ -6,8 +6,10 @@ I'm Santiago. Software Developer at [k2](https://https://k2con.com), Cofounder a
 
 ## 🔭 Currently working on
 - [Unizend](https://github.com/Unizend): Searching for an idea to pivot to.
-- [Paradox](https://https://github.com/ProjectPenrose/paradox): Simple vanilla javascript library for beginners.
-- [k2](https://https://k2con.com) B2B software in industries such as Real Estate, Fintech, Health, and Project Management.
+- [Paradox](https://github.com/ProjectPenrose/paradox): Simple vanilla javascript library for beginners.
+- [Masamo Text Editor](https://github.com/k2con/masamo-text-editor): Javascript Text Editor.
+- [k2](https://https://k2con.com): B2B software in industries such as Real Estate, Fintech, Health, and Project Management.
+- [Viewing Party](https://viewingparty.net/): Developing a new way to watch movies, shows, sports and other events together with friends or viewers all around the world.
 
 ## 🌱 Currently learning
 - How to build a startup at [Startup School](https://startupschool.org)
@@ -18,7 +20,7 @@ I'm Santiago. Software Developer at [k2](https://https://k2con.com), Cofounder a
 
 ## 👯 Looking to collaborate on
 - Any open source javascript project
-- Tools for devs
+- Tools for devs or business management.
 
 ## 📫 How to reach me
 - Twitter: [@thehomelessdev](https://twitter.com/thehomelessdev)
