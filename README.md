@@ -5,7 +5,6 @@ I'm Santiago. Software Developer at [k2](https://https://k2con.com), Cofounder a
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsc6955&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 Currently working on
-- [Unizend](https://github.com/Unizend): Searching for an idea to pivot to.
 - [Paradox](https://github.com/ProjectPenrose/paradox): Simple vanilla javascript library for beginners.
 - [Masamo Text Editor](https://github.com/k2con/masamo-text-editor): Javascript Text Editor.
 - [k2](https://https://k2con.com): B2B software in industries such as Real Estate, Fintech, Health, and Project Management.
