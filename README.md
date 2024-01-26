@@ -5,10 +5,11 @@ I'm Santiago. Software Developer at [k2](https://https://k2con.com).
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsc6955&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 Currently working on
+- [Miro for Tech Founders]([https://github.com/ProjectPenrose/paradox](https://github.com/alexsc6955/miro-for-tech-founders)): With AI integration, tech founders can quickly create a business model canvas and plan within five minutes using Miro boards.
 - [Paradox](https://github.com/ProjectPenrose/paradox): Simple vanilla javascript library for beginners.
 - [Masamo Text Editor](https://github.com/k2con/masamo-text-editor): Javascript Text Editor.
 - [k2](https://https://k2con.com): B2B software in industries such as Real Estate, Fintech, Health, and Project Management.
-- [Viewing Party](https://viewingparty.net/): Developing a new way to watch movies, shows, sports and other events together with friends or viewers all around the world.
+- [Viewing Party](https://viewingparty.net/): Developing a new way to watch movies, shows, sports, and other events together with friends or viewers all around the world.
 
 ## 🌱 Currently learning
 - How to build a startup at [Startup School](https://startupschool.org)
