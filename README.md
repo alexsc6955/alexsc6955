@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Santiago. Software Developer at [k2](https://https://k2con.com), Cofounder at [Unizend](https://github.com/Unizend) and Minecraft Player at Home.
+I'm Santiago. Software Developer at [k2](https://https://k2con.com).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsc6955&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
