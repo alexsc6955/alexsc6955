@@ -13,8 +13,9 @@ I'm Santiago. Senior Python Developer at [icvr](https://icvr.io/).
 - [Masamo Text Editor](https://github.com/k2con/masamo-text-editor): Javascript Text Editor.
 
 ## 🌱 Currently learning
-- Tooling, automation and gaming software at work.
+- Tooling and automation for DDCs, Unreal Engine, and AWS Deadline at work.
 - C++ at [Platzi](https://platzi.com)
+- Data Science and Machine Learning at [Platzi](https://platzi.com)
 - Software Architecture at [Microsoft Learn](https://learn.microsoft.com) and [Platzi](https://platzi.com)
 - Data science at [Platzi](https://platzi.com)
 
