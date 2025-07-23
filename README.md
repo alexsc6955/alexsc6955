@@ -1,19 +1,16 @@
 ### Hi there 👋
 
-I'm Santiago, a senior Python developer specializing in tooling and automation for the **entertainment, video games, and arts industries**. Currently shaping the future at [icvr](https://icvr.io/) and building next-gen automation tools, and through my side project, **ProjectPenrose**.
+I'm Santiago — a senior Python developer building tools for creators in games, film, and interactive art.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsc6955&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎨 What I Do
-- **Creating Tools for Creativity**: Building software that empowers creators in gaming, film, and the arts.
-- **Automation Enthusiast**: I thrive on reducing manual tasks, streamlining pipelines, and making processes efficient.
-- **AI-Driven Innovations**: At **ProjectPenrose**, I'm exploring AI's role in creative automation.
+- 🚀 ICVR: Building scalable creative pipeline systems  
+- 🧩 Trivox: AI workflow engine for artists, thinkers & builders
 
 ## 🔭 Currently working on
 - [icvr](https://icvr.io/): Pushing the boundaries of software, art, and interactive experiences.
-- [ProjectPenrose](https://projectpenrose.github.io): An AI-driven lab focused on research and automation tools.
-- [Paradox](https://github.com/ProjectPenrose/paradox): Simple vanilla javascript library for beginners.
-- [Miro for Tech Founders](https://github.com/alexsc6955/miro-for-tech-founders): AI-assisted business modeling with Miro boards.
+- [Trivox](https://github.com/trivox-io): AI workflow engine for artists, thinkers & builders  
 
 
 ## 🌱 Learning & Growing
@@ -45,12 +42,10 @@ I'm Santiago, a senior Python developer specializing in tooling and automation f
 - **Creativity Meets AI**: Experimenting with AI tools for art, storytelling, and music generation.
 
 ## 💡 Core Values
-- **Empowering Creativity**: I believe in building tools that unlock human potential in the arts.
-- **Constant Growth**: Always learning, adapting, and refining my craft.
-- **Collaboration & Community**: Open to working with like-minded creatives and tech enthusiasts.
+Empowering creativity · Scaling chaos · Learning always  
 
 ## 🎸 Fun Fact
-When I'm not coding, you might find me jamming to heavy music, creating AI-driven art that tells stories, building epic worlds in Minecraft, or hanging out with my furry best friend.
+I build haunted Minecraft worlds and listen to heavy music while coding eerie pipelines.
 
 ## 👯 Let’s Collaborate!
 - Tooling and automation projects.
